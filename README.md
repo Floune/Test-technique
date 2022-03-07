@@ -18,7 +18,7 @@
 - `cp .env.example .env` (remplacer les valeurs par défaut)
 - `php artisan key:generate`
 - `php artisan migrate`
-- `ddev npm install`
-- `ddev npm run dev`
+- `npm install`
+- `npm run dev`
 - `npx cypress open`
 
