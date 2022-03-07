@@ -7,7 +7,7 @@
 - `ddev start`
 - `ddev composer install`
 - `cp .env.example .env` (laisser tel quel pour ddev)
-- `ddev exec php artisan composer key:generate`
+- `ddev exec php artisan key:generate`
 - `npm install`
 - `npm run dev`
 - `ddev cypress-open`
